@@ -48,6 +48,6 @@
     "magic-string": "^0.30.5"
   },
   "peerDependencies": {
-    "vite": "^4 || ^5"
+    "vite": "^4 || ^5 || ^6"
   }
 }
